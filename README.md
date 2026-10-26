@@ -37,3 +37,9 @@ Manifest, Archivstruktur und JavaScript-Syntax geprüft. MP3-Kodierung mit Testt
 ## Drittanbieter
 
 Der MP3-Encoder [lamejs 1.2.1](https://github.com/zhuker/lamejs) wird unverändert unter LGPL-3.0 eingebunden. Hinweise und Original-Lizenzdatei befinden sich unter `extension/` und `vendor/lamejs-1.2.1/`. [LAME-Projekt](https://lame.sourceforge.net/).
+
+## KI-Hinweis / AI disclosure
+
+Dieses Projekt wird mit Unterstützung künstlicher Intelligenz entwickelt und dokumentiert. Der Hinweis beschreibt die Entwicklung und bedeutet nicht, dass das Programm selbst KI-Funktionen verwendet.
+
+This project is developed and documented with assistance from artificial intelligence. This disclosure describes the development process; it does not imply that the software itself uses AI features.
